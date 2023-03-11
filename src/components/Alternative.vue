@@ -12,7 +12,7 @@
                   <a id="4"><p class="font-title font-semibold text-base ml-4">BENEFITS</p></a>
               </div>
               <p class="font-dmsans font-bold text-3xl">
-                  How can you benefit from HiveMed? 8==D
+                  How can you benefit from HiveMed?
               </p>
           </div>
           
