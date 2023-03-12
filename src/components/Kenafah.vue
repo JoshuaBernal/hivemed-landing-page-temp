@@ -23,8 +23,8 @@
                 <p class="font-title font-semibold ml-5">Databases</p>
             </div>
             <p class="font-title mt-7">
-                HiveMed's databases store a variety of information such as pharmacies' medicine inventory, user profiles, medicine information to allow users to access relevant and appropriate
-                information that will help in their medical tasks.
+                HiveMed's databases store a variety of information such as pharmacies' medicine inventory, user profiles, and medicine information to allow users to access relevant 
+                information at any time to help in their medical tasks.
             </p>
         </div>
 

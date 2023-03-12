@@ -18,10 +18,10 @@
           
             <div class="w-[580px] md:px-0 px-3">
                 <p class="font-title font-normal text-base mt-6 xl:mt-0">
-                    For patients, HiveMed will allow you to have a more convenient medical check-up and pharmacy purchase. <br>For doctors, HiveMed 
-                    will allow you to show your doctor profile and receive more patients. You will also be able to confirm if patients purchased the medicine you prescribed.
+                    For patients, HiveMed will allow you to have a more convenient medical check-up and pharmacy purchase experience. <br>For doctors, HiveMed 
+                    will allow you to show your doctor profile, receive more patients, and confirm if patients purchased the medicine you prescribed.
                     <br>Lastly, for pharmacies, HiveMed will allow you to advertise your brand and company to more patients and 
-                    doctors, take orders and requests easier, and receive prescriptions directly from doctors.
+                    doctors, take prescription orders and requests easier, and receive prescriptions directly from doctors.
                 </p>
             </div>
 
@@ -32,7 +32,7 @@
             <div class="w-[250px] md:w-[300px] xl:w-[500px] md:mr-3 relative">
                 <img src="/alternative1.png" >
                 <p class="font-title font-normal text-base md:text-xl py-6">
-                    Prescribing made easier with the e-prescription feature.
+                    Setting-up medical appointments made easier with HiveMed's chatrooms.
                 </p>
 
                 <div class="flex absolute bottom-0">
