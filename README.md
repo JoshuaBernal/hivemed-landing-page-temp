@@ -1,5 +1,10 @@
-### MSTSKP SLICING
+### HiveMed Landing Page
 
-Halo Pada Kesempatan Kali Ini Saya Berkesempatan Slicing UI Dari <a href="https://www.figma.com/community/file/1064536438320565974" >Mas Naufal</a>
+For Educational purposes only.
+Submitted by: Bernal, Joshua Miguel S.
 
-Link Demo : <a href="https://mstskp.netlify.app/" >MSTSKP SLICING UI</a>
+This is a sample landing page for the website 'HiveMed'. It contains information about the software such as features, target-users, and benefits to target-users. It is only a temporary/inital landing page created by one of the members of the group and is not the final landing page of HiveMed. 
+A template called <a=href="https://vuejsexamples.com/landing-page-media-tool-slicing-ui/">Landing Page Media Tool Slicing UI</a> taken from <a href="https://vuejsexamples.com/tag/landing-page/#">Vue.js Examples</a> was used for this project.
+
+Link to Template's GitHub Repository: <a href="https://github.com/ariear/Landing-Page-Media-Tool-Slicing-UI.git">MSTSKP SLICING UI GITHUB</a>
+Link to Template Demo : <a href="https://mstskp.netlify.app/" >MSTSKP SLICING UI DEMO</a>
