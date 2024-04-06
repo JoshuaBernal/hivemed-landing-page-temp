@@ -6,7 +6,7 @@ Submitted by: Bernal, Joshua Miguel S.
 This is a sample landing page for the website 'HiveMed'. It contains information about the software such as features, target-users, and benefits to target-users. It is only a temporary/inital landing page created by one of the members of the group and is not the final landing page of HiveMed. <br><br>
 
 #### Running the website
-###### npm run dev
+npm run dev
 
 #### Template
 A template called <a href="https://vuejsexamples.com/landing-page-media-tool-slicing-ui/">Landing Page Media Tool Slicing UI</a> taken from <a href="https://vuejsexamples.com/tag/landing-page/#">Vue.js Examples</a> was used for this project.
